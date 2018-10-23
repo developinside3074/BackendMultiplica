@@ -1,0 +1,395 @@
+2018-10-21 12:01:51,684 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-21 12:02:04,231 [11] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con destino a Base de Datos
+2018-10-21 12:02:10,537 [11] INFO  BackendMultiplica.Controllers.ProductoesController Operacion de guardado exitosa, para el producto: Producto: Harina Precio: 8.50 Stock: 16
+2018-10-21 19:39:54,187 [8] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 19:39:54,202 [8] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-21 19:42:17,733 [8] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 19:43:01,343 [8] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 19:43:01,347 [8] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 19:43:19,235 [8] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 19:45:38,718 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 19:45:38,732 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 19:45:58,221 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 19:49:31,521 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 19:49:31,537 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 19:49:33,999 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 20:04:21,479 [9] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 20:04:21,492 [9] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 20:04:26,547 [9] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 20:15:44,583 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 20:15:44,595 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 20:15:50,751 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 20:24:09,792 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 20:24:09,806 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 20:24:14,862 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 20:24:15,111 [10] ERROR BackendMultiplica.Controllers.ProductoesController Error al solicitar informacion a GetProductos()Newtonsoft.Json
+2018-10-21 20:27:52,847 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 20:27:52,862 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 20:27:55,180 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 20:27:55,259 [10] ERROR BackendMultiplica.Controllers.ProductoesController Error al solicitar informacion a GetProductos()Newtonsoft.Json
+2018-10-21 20:38:46,025 [9] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 20:38:46,044 [9] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 20:38:50,798 [9] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 20:38:50,872 [9] ERROR BackendMultiplica.Controllers.ProductoesController Error al solicitar informacion a GetProductos()Newtonsoft.Json
+2018-10-21 20:41:32,762 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 20:41:32,782 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 20:41:34,965 [11] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 20:41:35,060 [11] ERROR BackendMultiplica.Controllers.ProductoesController Error al solicitar informacion a GetProductos()Newtonsoft.Json
+2018-10-21 20:44:37,390 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 20:44:37,411 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 20:44:39,624 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 20:51:44,935 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 20:51:44,945 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 20:51:49,663 [11] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 20:53:06,676 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 20:53:06,687 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 20:53:07,213 [11] ERROR BackendMultiplica.Controllers.ProductoesController Error al solicitar informacion a GetProductos()EntityFramework
+2018-10-21 20:54:38,533 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 20:54:38,545 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 20:54:41,304 [11] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 20:58:00,732 [18] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 20:58:00,735 [18] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-21 20:58:00,738 [18] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-21 20:58:13,109 [17] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-21 20:58:13,111 [17] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-21 20:58:13,119 [17] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 04:40:32,461 [5] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 04:40:32,493 [5] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 04:43:42,989 [7] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 04:43:43,000 [7] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 04:56:36,566 [7] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 04:56:36,581 [7] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 04:56:44,190 [7] ERROR BackendMultiplica.Controllers.ProductoesController Error ha ocurrido una excepcion de tipo IO, al intentar escribir sobre el discoprincipal. Mensaje: System.Xml
+2018-10-22 04:59:01,074 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 04:59:01,093 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 05:12:25,108 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 05:12:25,119 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 05:23:15,107 [7] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 05:23:15,122 [7] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 05:23:27,626 [7] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 05:23:29,755 [7] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 05:40:23,460 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 05:40:23,471 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 05:40:29,838 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 05:40:32,190 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 05:50:15,412 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 05:50:15,424 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 05:50:24,339 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 05:50:25,564 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 06:16:50,497 [8] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 06:16:50,508 [8] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 06:16:55,221 [8] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 06:16:55,243 [8] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 06:27:25,895 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 06:27:25,905 [6] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 06:27:34,241 [6] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 06:29:42,089 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 06:29:42,099 [6] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 06:29:48,993 [6] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 06:32:05,483 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 06:32:05,495 [6] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 06:38:10,639 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 06:38:10,649 [6] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 06:39:17,126 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 06:39:17,137 [6] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 06:41:04,024 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 06:41:04,035 [6] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 06:44:11,740 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 06:44:11,753 [6] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 07:35:26,101 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 07:35:26,141 [6] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 07:36:32,433 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 07:36:32,448 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 07:36:32,451 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 07:36:32,457 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 08:53:42,498 [5] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 08:53:42,534 [5] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 08:53:42,536 [5] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 08:53:42,540 [5] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 08:54:39,457 [5] ERROR BackendMultiplica.Controllers.ProductoesController Error al intentar grabar los datos en formato XML, metodo responsable PostProducto(), detalles: BackendMultiplica
+2018-10-22 08:55:55,721 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 08:55:55,733 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 08:55:55,735 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 08:56:17,226 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 08:57:43,757 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 08:57:43,770 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 08:57:43,773 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 08:58:13,287 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 08:58:13,302 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 08:58:13,306 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 08:58:17,488 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 08:58:51,387 [6] ERROR BackendMultiplica.Controllers.ProductoesController Error al intentar grabar los datos en formato XML, metodo responsable PostProducto(), detalles: BackendMultiplica
+2018-10-22 08:58:59,216 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 08:58:59,218 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 08:58:59,220 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 08:59:05,071 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 08:59:26,853 [6] ERROR BackendMultiplica.Controllers.ProductoesController Error al intentar grabar los datos en formato XML, metodo responsable PostProducto(), detalles: BackendMultiplica
+2018-10-22 09:03:11,441 [7] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 09:03:11,451 [7] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 09:03:11,454 [7] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 09:03:16,443 [7] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 09:07:04,909 [7] ERROR BackendMultiplica.Controllers.ProductoesController Error al intentar grabar los datos en formato XML, metodo responsable PostProducto(), detalles: BackendMultiplica
+2018-10-22 09:07:31,079 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 09:07:31,092 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 09:07:31,094 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 09:07:35,514 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 09:11:23,853 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 09:11:23,864 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 09:11:23,866 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 09:11:57,700 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 09:11:57,712 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 09:11:57,714 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 09:12:08,561 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 09:15:10,772 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 09:15:10,784 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 09:15:10,786 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 09:15:14,003 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 09:25:12,399 [6] INFO  BackendMultiplica.Controllers.ProductoesController El producto: Producto: Keke Precio: 1.50 Stock: 35 se ha guardado satisfactoriamente en la direccion C:\Data\productos.xml
+2018-10-22 09:26:06,379 [8] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 09:26:06,392 [8] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 09:26:06,394 [8] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 09:26:08,807 [8] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 09:28:51,146 [8] ERROR BackendMultiplica.Controllers.ProductoesController Error al intentar grabar los datos en formato XML, metodo responsable PostProducto(), detalles: BackendMultiplica
+2018-10-22 09:29:30,826 [8] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 09:29:30,847 [8] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 09:29:30,850 [8] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 09:29:35,099 [8] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 09:33:58,436 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 09:33:58,452 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 09:33:58,458 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 09:34:09,877 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 09:44:09,596 [7] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 09:44:09,608 [7] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 09:44:09,611 [7] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 09:44:13,101 [7] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 09:45:43,583 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 09:45:43,597 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 09:45:43,600 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 09:45:50,786 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 10:20:39,145 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 10:20:39,157 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 10:20:39,159 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 10:20:43,049 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 10:22:49,136 [5] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 10:22:49,149 [5] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 10:22:49,152 [5] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 10:22:52,372 [5] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 10:24:21,754 [8] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 10:24:21,767 [8] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 10:24:21,770 [8] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 10:24:23,851 [8] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 10:24:43,949 [8] INFO  BackendMultiplica.Controllers.ProductoesController El producto: Producto: Keke Precio: 1.50 Stock: 35 se ha guardado satisfactoriamente en la direccion C:\Data\productos.xml
+2018-10-22 10:36:14,933 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 10:36:14,945 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 10:36:14,947 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 10:36:19,434 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 11:11:35,539 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 11:11:35,554 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 11:11:35,560 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 11:11:45,173 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 11:27:18,252 [7] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 11:27:18,263 [7] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 11:27:18,267 [7] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 11:27:25,265 [7] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 11:37:25,845 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 11:37:25,860 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 11:37:25,863 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 11:37:29,844 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 11:38:33,489 [6] ERROR BackendMultiplica.Controllers.ProductoesController Error al intentar grabar los datos en formato XML, metodo responsable PostProducto(), detalles: EntityFramework
+2018-10-22 11:38:36,947 [6] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 11:38:36,949 [6] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 11:38:36,951 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 11:38:46,428 [6] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 11:50:19,100 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 11:50:19,112 [10] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 11:50:19,115 [10] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 11:50:22,551 [10] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 11:55:25,173 [12] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 11:55:25,195 [12] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 11:55:25,200 [12] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 11:55:28,565 [12] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-22 12:38:02,048 [8] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 12:38:02,082 [8] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 12:38:02,085 [8] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-22 12:41:16,778 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 12:41:16,790 [10] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 12:43:27,863 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 12:43:27,873 [11] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 12:45:13,781 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 12:45:13,795 [10] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 12:53:05,235 [9] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-22 12:53:05,247 [9] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-22 15:17:10,776 [9] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:17:10,824 [9] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 15:17:10,859 [9] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 15:18:10,766 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:18:10,772 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 15:18:20,019 [11] ERROR BackendMultiplica.Controllers.ProductoesController Error al solicitar informacion a GetProductos()EntityFramework
+2018-10-22 15:19:47,926 [9] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:19:47,930 [9] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 15:22:51,422 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:22:51,433 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 15:22:58,036 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 15:23:53,390 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:23:53,393 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 15:30:05,353 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 15:30:35,012 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:30:35,023 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 15:32:08,272 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:32:08,282 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 15:39:10,855 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:39:10,864 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 15:40:51,597 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:40:51,608 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 15:41:03,409 [10] ERROR BackendMultiplica.Controllers.ProductoesController Error al solicitar informacion a GetProductos()BackendMultiplica
+2018-10-22 15:42:31,053 [8] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:42:31,064 [8] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 15:43:30,063 [8] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 15:44:19,014 [7] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:44:19,017 [7] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 15:44:28,022 [7] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 15:47:02,053 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:47:02,064 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 15:47:07,388 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 15:47:25,485 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:47:25,487 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 15:55:18,782 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 15:55:18,794 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 15:56:24,129 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:01:17,205 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:01:17,216 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 16:01:59,628 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:01:59,631 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 16:02:16,505 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:02:31,431 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:02:31,433 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:02:31,476 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:02:57,438 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:04:50,144 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:06:10,917 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:06:19,107 [9] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:06:19,108 [9] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 16:06:19,688 [9] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:42:05,644 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:43:45,395 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:45:15,583 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:47:15,132 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:47:42,292 [10] ERROR BackendMultiplica.Controllers.ProductoesController Error usted no ha especificado el origen de los datos
+2018-10-22 16:49:29,830 [8] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:51:58,462 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:52:55,570 [9] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:53:09,096 [9] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 16:53:16,122 [9] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:54:04,662 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:54:16,791 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:54:30,215 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:54:56,646 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:54:56,648 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:54:56,652 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:54:57,572 [13] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:54:57,574 [13] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:54:57,579 [13] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:54:57,805 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:54:57,809 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:54:57,813 [11] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:54:58,018 [13] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:54:58,022 [13] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:54:58,027 [13] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:54:58,219 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:54:58,222 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:54:58,227 [11] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:54:58,407 [13] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:54:58,411 [13] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:54:58,415 [13] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:54:58,756 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:54:58,761 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:54:58,766 [11] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:54:59,038 [13] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:54:59,041 [13] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:54:59,046 [13] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:54:59,237 [12] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:54:59,241 [12] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:54:59,246 [12] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:54:59,421 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:54:59,425 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:54:59,430 [11] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:54:59,723 [13] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:54:59,726 [13] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:54:59,731 [13] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:55:14,557 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:55:14,567 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:55:15,177 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:55:16,868 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:55:16,870 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:55:16,875 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:55:17,509 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:55:17,511 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:55:17,515 [11] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:55:17,723 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:55:17,726 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:55:17,731 [11] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:55:18,055 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:55:18,059 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:55:18,063 [11] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:55:24,541 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:55:24,543 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 16:55:24,562 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 16:55:33,991 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 16:55:33,993 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 16:55:33,998 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 18:14:30,973 [9] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 18:14:31,016 [9] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 18:14:31,598 [9] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 18:14:39,728 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 18:14:39,730 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 18:14:39,903 [10] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 18:16:02,081 [9] INFO  BackendMultiplica.Controllers.ProductoesController Los datos modificados fueron almacenados con exito!!
+2018-10-22 18:16:16,405 [9] INFO  BackendMultiplica.Controllers.ProductoesController Los datos modificados fueron almacenados con exito!!
+2018-10-22 18:16:24,456 [9] INFO  BackendMultiplica.Controllers.ProductoesController Los datos modificados fueron almacenados con exito!!
+2018-10-22 18:33:38,900 [11] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 18:33:38,913 [11] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-22 18:33:39,502 [11] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 18:33:48,279 [25] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 18:33:48,282 [25] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 18:33:48,305 [25] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-22 18:34:42,143 [13] INFO  BackendMultiplica.Controllers.ProductoesController El producto con identificador: 2 no se encuentra almacenado
+2018-10-22 18:35:00,233 [12] INFO  BackendMultiplica.Controllers.ProductoesController El producto con identificador: 2 ha sido borrado satisfactoriamente.
+2018-10-22 18:35:16,469 [12] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-22 18:35:16,473 [12] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-22 18:35:16,478 [12] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-23 07:53:22,036 [14] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:53:22,080 [14] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-23 07:53:24,030 [14] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-23 07:53:36,552 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:53:36,556 [10] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen XML
+2018-10-23 07:53:52,323 [13] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:53:59,275 [13] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:53:59,818 [15] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:54:00,025 [13] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:54:00,253 [15] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:54:00,430 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:54:00,932 [14] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:54:01,094 [12] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:54:01,266 [10] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:54:01,457 [14] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:54:01,751 [12] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:54:21,668 [13] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:54:21,671 [13] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-23 07:54:21,675 [13] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-23 07:54:35,061 [12] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:54:44,174 [14] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud al metodo GetProductos() 
+2018-10-23 07:54:44,176 [14] INFO  BackendMultiplica.Controllers.ProductoesController Recuperando la informacion desde el origen de Base de Datos
+2018-10-23 07:54:44,180 [14] INFO  BackendMultiplica.Controllers.ProductoesController Informacion recuperada: System.Collections.Generic.List`1[BackendMultiplica.Models.Producto]
+2018-10-23 07:54:55,311 [14] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de informacion de producto de origen Base de Datos, metodo responsable GetProducto()
+2018-10-23 07:54:55,359 [14] INFO  BackendMultiplica.Controllers.ProductoesController El Producto con el identificador 2 no fue encontrado
+2018-10-23 07:55:04,154 [13] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de informacion de producto de origen Base de Datos, metodo responsable GetProducto()
+2018-10-23 07:55:04,164 [13] INFO  BackendMultiplica.Controllers.ProductoesController Producto recuperado: Producto: Carne Precio: 15.70 Stock: 85
+2018-10-23 07:55:09,685 [13] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de informacion de producto de origen XML, metodo responsable GetProducto()
+2018-10-23 08:16:34,487 [9] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-23 08:16:34,519 [9] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-23 08:16:34,523 [9] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado el directoro en la direccion C:\Data de forma satisfactoria.
+2018-10-23 08:16:34,536 [9] INFO  BackendMultiplica.Controllers.ProductoesController Se ha creado un recurso en la direccion C:\Data\productos.xml satisfactoriamente.
+2018-10-23 08:16:34,541 [9] INFO  BackendMultiplica.Controllers.ProductoesController El producto: Producto: Leche Precio: 12.34 Stock: 30 se ha guardado satisfactoriamente en la direccion C:\Data\productos.xml
+2018-10-23 08:17:21,714 [9] INFO  BackendMultiplica.Controllers.ProductoesController Solicitud de operacion de guardado de producto, metodo responsable PostProducto() 
+2018-10-23 08:17:29,906 [9] INFO  BackendMultiplica.Controllers.ProductoesController Los datos seran guardados con formato XML en el disco principal
+2018-10-23 08:19:12,034 [9] INFO  BackendMultiplica.Controllers.ProductoesController El producto: Producto: Leche Precio: 12.34 Stock: 30 se ha guardado satisfactoriamente en la direccion C:\Data\productos.xml
